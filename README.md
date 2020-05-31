@@ -12,12 +12,7 @@ The acceptance criteria wanted us to include sematic HTML elements and structure
 Not only the HTML page needed to look clean but also the CSS page. We needed to clean it and make it more efficient, as well ass consolidate it. 
 
 The Mock-Up of the landing page was
-<<<<<<< HEAD
-<img src="./assets/images/mockup.png">
-
+<images src="assets/images/mock-up.png">
 
 Link to deployed application:
 https://gonzalezl13.github.io/horiseon-management/
-=======
-<img src="assets/images/mock-up.png">
->>>>>>> 50bd6643c75637e93e19ef3bb942c2854d8c5dca
