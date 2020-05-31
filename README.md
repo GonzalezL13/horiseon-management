@@ -12,4 +12,4 @@ The acceptance criteria wanted us to include sematic HTML elements and structure
 Not only the HTML page needed to look clean but also the CSS page. We needed to clean it and make it more efficient, as well ass consolidate it. 
 
 The Mock-Up of the landing page was
-<img src="assets/images/mock-up.png">
+<img src="assets/images/mock-up.png" width="100px">
