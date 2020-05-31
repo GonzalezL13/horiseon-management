@@ -14,5 +14,6 @@ Not only the HTML page needed to look clean but also the CSS page. We needed to 
 The Mock-Up of the landing page was
 <images src="assets/images/mock-up.png">
 
+
 Link to deployed application:
 https://gonzalezl13.github.io/horiseon-management/
