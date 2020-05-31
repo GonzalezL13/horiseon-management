@@ -15,5 +15,6 @@ The Mock-Up of the landing page was
 
 
 
+
 Link to deployed application:
 https://gonzalezl13.github.io/horiseon-management/
